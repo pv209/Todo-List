@@ -2,11 +2,7 @@
 
 Este é um projeto de **TodoList** com **frontend** e **backend**. O frontend é um aplicativo simples que permite gerenciar tarefas em uma lista. O backend é responsável por armazenar as tarefas em um banco de dados PostgreSQL e disponibilizar uma API RESTful.
 
-## Estrutura do Projeto
 
-A estrutura do projeto é a seguinte:
-
----
 
 ## Requisitos
 
